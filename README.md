@@ -18,5 +18,8 @@
     -Last 10 tweets from the user 
 
 -Pagination on tweets 
+-User auth 
+
+-Every tweet might be having a hastag.
 
     
